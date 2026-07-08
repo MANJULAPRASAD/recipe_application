@@ -34,7 +34,7 @@ Clone the repository:
 
 git clone https://github.com/your-username/recipe_application.git
 
-
+applicaton DEMO:https://1drv.ms/v/c/66c8e37b8f63d4a8/IQDo6DRCbjTIRoWSL7gnfVJgAUlWB2PktQAQ24ZOD9gG8DU?e=640Sgk
 
 Navigate to the project directory:
 
